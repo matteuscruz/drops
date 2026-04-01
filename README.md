@@ -1,3 +1,4 @@
+```
 $$$$$$$^^~~~~~~~~~~~~~~~~~~~~^^$$$$$$$$+------------------------------------+
 $$$$$$^     ~^  $  $$ $ $ $ I  ~^$$$$$$|-TheDobbsheadRadioActivSystemOnline-|
 $$$$$            ~ ~~ ~I          $$$$$| -SubGenii: Bob Slack, Crazy Horse- |
@@ -21,3 +22,4 @@ $$$_xJ~ ~   ,    $$$$$$$P~_$$$$$$$$$$$$|-Informaton on The Net-No Ratios----|
 $$   $,   ,$$$,_____   _,J$$$$$$$$$$$$$|-Free Access-Full Access First Call-|
 $$L  `' ,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$|-MUD OnLine-Illuminations on Request|
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$+------------------------------------+
+```
