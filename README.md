@@ -1,25 +1,25 @@
 ```
 $$$$$$$^^~~~~~~~~~~~~~~~~~~~~^^$$$$$$$$+------------------------------------+
-$$$$$$^     ~^  $  $$ $ $ $ I  ~^$$$$$$|-TheDobbsheadRadioActivSystemOnline-|
-$$$$$            ~ ~~ ~I          $$$$$| -SubGenii: Bob Slack, Crazy Horse- |
-$$$$'                  '  _,w$<    $$$$|      -Pinks&Glorps: General-       |
+$$$$$$^     ~^  $  $$ $ $ $ I  ~^$$$$$$|--|
+$$$$$            ~ ~~ ~I          $$$$$|          - Knowledge Drops -       |
+$$$$'                  '  _,w$<    $$$$|      -Courses & Personal Research- |
 $$$$     $$$$$$$$w___,w$$$$$$$$  $  $$$|------------------------------------|
-$$$$     $$$$$$$$$$$$$$$$$$$$$$  I  $$$|-Dobbshead-(317) 736-6439-Discordia-|
-$$$$     $$$$$$$$$$$$$$$$$$$$*$[ i  $$$|-Weekdays 9pm-4pm, Weekends 9pm-9am-|
-$$$$     $$$$$$$$$$$$$$$$$$$$[][ | ]$$$|------------------------------------|
-$$$$     ~_,,_ ~$$$$$$$~ ____~ $    $$$| -Dedicated to things free! Speech- |
-$$$$    _~ ,  ,  `$$$~  _  _`$ ]L  J$$$| -Thought, Religion, Slack, fnord?- |
+$$$$     $$$$$$$$$$$$$$$$$$$$$$  I  $$$|   A living collection of things    |
+$$$$     $$$$$$$$$$$$$$$$$$$$*$[ i  $$$|   I learn along the way: concepts, |
+$$$$     $$$$$$$$$$$$$$$$$$$$[][ | ]$$$|   experiments, notes, and insights |
+$$$$     ~_,,_ ~$$$$$$$~ ____~ $    $$$|   from courses, books, videos, and |
+$$$$    _~ ,  ,  `$$$~  _  _`$ ]L  J$$$|   my own curiosity-driven digs.   |
 $$$$  , $$w$ww+   $$$ww``,,$w$ ][  $$$$|------------------------------------|
-$$$$,  $$$$www$$$ $$$$$$$ww$$$$$[  $$$$| -Also Known As: The Metaphysical-  |
-$$$$$_|| $$$$$$P' $$P$$$$$$$$$$$[|c$$$$|   -Workshop and AlternativLand-    |
-$$$$$$w| '$$P~  P]$$$-~, ~Y$$^'],$$$$$$|------------------------------------|
-$$$$$$$[   _        _J$$Tk     ]]$$$$$$|-uXu Distribution Site-Online Games-|
-$$$$$$$$,$ $$, c,,,,,,,y ,w$$[ ,$$$$$$$|-Online Text Library-Text File Libs-|
-$$$$$$$$$ i $w   ====--_$$$$$  $$$$$$$$|-Messages Bases From Metaphysics to-|
-$$$$$$$$$$`,P~ _ ~^^^^Y$$$$$  $$$$$$$$$|-Underground Conversations-CU/H/P/A-|
-$$$$^^=^$$^   ^' ,ww,w$$$$$ _$$$$$$$$$$|-Encryption Areas-2500+ Text Files--|
-$$$_xJ~ ~   ,    $$$$$$$P~_$$$$$$$$$$$$|-Informaton on The Net-No Ratios----|
-$$   $,   ,$$$,_____   _,J$$$$$$$$$$$$$|-Free Access-Full Access First Call-|
-$$L  `' ,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$|-MUD OnLine-Illuminations on Request|
+$$$$,  $$$$www$$$ $$$$$$$ww$$$$$[  $$$$|  Topics range across programming,  |
+$$$$$_|| $$$$$$P' $$P$$$$$$$$$$$[|c$$$$|  computer science, math, systems,  |
+$$$$$$w| '$$P~  P]$$$-~, ~Y$$^'],$$$$$$|  and whatever else catches my eye. |
+$$$$$$$[   _        _J$$Tk     ]]$$$$$$|------------------------------------|
+$$$$$$$$,$ $$, c,,,,,,,y ,w$$[ ,$$$$$$$|  Not a polished resource. Just raw |
+$$$$$$$$$ i $w   ====--_$$$$$  $$$$$$$$|  drops of knowledge, documented    |
+$$$$$$$$$$`,P~ _ ~^^^^Y$$$$$  $$$$$$$$$|  for future me — and maybe you.   |
+$$$$^^=^$$^   ^' ,ww,w$$$$$ _$$$$$$$$$$|------------------------------------|
+$$$_xJ~ ~   ,    $$$$$$$P~_$$$$$$$$$$$$|     - by Mateus Cruz               |
+$$   $,   ,$$$,_____   _,J$$$$$$$$$$$$$|     - github.com/matteuscruz       |
+$$L  `' ,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$|------------------------------------|
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$+------------------------------------+
 ```
